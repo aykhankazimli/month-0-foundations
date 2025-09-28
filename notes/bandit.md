@@ -1,0 +1,3 @@
+# OverTheWire Bandit — log (non-spoiler)
+Level 0→1: commands tried, lesson learned
+Level 1→2: ...
